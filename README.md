@@ -25,5 +25,4 @@ https://github.com/Mkmoise/iyf-s11-week-01-Mkmoise.git
 ## Technologies Used
 
 - HTML5
-- CSS3
 - GitHub Pages
