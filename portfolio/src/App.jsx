@@ -64,7 +64,7 @@ function App() {
           <a href="#home">Home</a>
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
-          <a href="#projects">Projects</a>
+          <a href="https://mkmoise.github.io/iyf-s11-week-12-street-vendor-hub-Mkmoise/">Projects</a>
           <a href="#contact">Contact</a>
         </div>
       </nav>
