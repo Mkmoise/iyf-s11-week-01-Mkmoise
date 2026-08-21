@@ -16,6 +16,11 @@ function Projects() {
             <strong>Technologies:</strong> React, Node.js, Express,
             MongoDB and Mongoose.
           </p>
+            <a
+    href="https://mkmoise.github.io/iyf-s11-week-12-street-vendor-hub-Mkmoise/"
+    target="_blank"
+    rel="noreferrer"
+    className="button"> View StreetVendorHub</a>
         </div>
 
         <div className="project">
