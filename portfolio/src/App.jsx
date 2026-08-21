@@ -305,7 +305,7 @@ function App() {
               </a>
 
               <a
-                href="mailto:your-email@example.com"
+                href="mkmoise920@gmail.com"
                 className="btn secondary"
               >
                 Email Me
